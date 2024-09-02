@@ -2,6 +2,8 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/building-temporal-kernels-with-orthogonal/gesture-recognition-on-dvs128-gesture)](https://paperswithcode.com/sota/gesture-recognition-on-dvs128-gesture?p=building-temporal-kernels-with-orthogonal)
 
+![polynomial](polynomial.png)
+
 ## Description
 
 TENNs-PLEIADES is a (spatio)temporal convolutional network, where its temporal kernels are constructed by orthogonal polynomials. It is effective in capturing long-range temporal correlations, and is stable during training.
